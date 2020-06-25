@@ -1,8 +1,10 @@
 # Learning path
 
 ### System Administration
-- Linux
+- [Linux] [1]
 - Windows
+
+[1]: https://github.com/envelabs/enve-labs-linux-sa-training
 
 ### Source Code Management
 - git / github / gitlab / bitbucket
@@ -15,7 +17,7 @@
 - Terraform
 
 ### Configuration Management Tools
-- Ansible: 
+- Ansible:
 
 ### Build Automation
 - Packer
