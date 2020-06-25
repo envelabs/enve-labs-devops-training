@@ -1,7 +1,7 @@
 # Learning path
 
 ### System Administration
-- [Linux] [1]
+- Linux [[1]]
 - Windows
 
 [1]: https://github.com/envelabs/enve-labs-linux-sa-training
