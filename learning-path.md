@@ -1,10 +1,10 @@
 # Learning path
 
 ### System Administration
-- Linux [[1]]
+- Linux [[enve-labs-linux-sa-training]]
 - Windows
 
-[1]: https://github.com/envelabs/enve-labs-linux-sa-training
+[enve-labs-linux-sa-training]: https://github.com/envelabs/enve-labs-linux-sa-training
 
 ### Source Code Management
 - git / github / gitlab / bitbucket
@@ -17,9 +17,9 @@
 - Terraform
 
 ### Configuration Management Tools
-- Ansible [[2]]
+- Ansible [[enve-labs-ansible-training]]
 
-[2]: https://github.com/envelabs/enve-labs-ansible-training
+[enve-labs-ansible-training]: https://github.com/envelabs/enve-labs-ansible-training
 ### Build Automation
 - Packer
 
@@ -39,7 +39,7 @@
 - Prometheus
 
 ### Micorservices
-- Docker [[3]]
+- Docker [[enve-labs-docker-training]]
 - Kubernetes
 
-[3]: https://github.com/envelabs/enve-labs-docker-training
+[enve-labs-docker-training]: https://github.com/envelabs/enve-labs-docker-training
