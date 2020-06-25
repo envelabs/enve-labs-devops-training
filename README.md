@@ -13,18 +13,18 @@ A lot of companies are starting to build DevOps teams. The T-Shaped profiles (eg
 
 ### DevOps Principles
 
-* Holistic System thinking\
+  - Holistic System thinking\
   (En términos generales, **holístico** indica que un sistema y sus propiedades se analizan como un todo, de una manera global e integrada, ya que desde este punto de vista su funcionamiento sólo se puede comprender de esta manera y no sólo como la simple suma de sus partes.
 
   Holístico se suele aplicar a términos como planteamiento, pensamiento, paradigma, enfoque, concepto o programa para significar que se utiliza una visión integral y completa en el análisis de una realidad)
-* Iterative
-* Collaborative
-* Automated
-* Self-Service
-* Incremental
-* **NO** Silos\
+  - Iterative
+  - Collaborative
+  - Automated
+  - Self-Service
+  - Incremental
+  - **NO** Silos\
   (an information silo is an insular management system incapable of reciprocal operation with other, related information systems. Information silo occurs whenever a data system is incompatible or not integrated with other data systems)
-* Rapid useful feedback
+  - Rapid useful feedback
 
 ### DevOps Practices
 
@@ -39,4 +39,4 @@ A lot of companies are starting to build DevOps teams. The T-Shaped profiles (eg
 The first step in DevOps transformation is knowing where change is needed. So everything should be measured and tracked.
 
 ### Resources
-Learning Path [enve docs](learning-path.md)
+Learning Path [[>>]](learning-path.md)
