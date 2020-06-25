@@ -17,8 +17,9 @@
 - Terraform
 
 ### Configuration Management Tools
-- Ansible:
+- Ansible [[2]]
 
+[2]: https://github.com/envelabs/enve-labs-ansible-training
 ### Build Automation
 - Packer
 
