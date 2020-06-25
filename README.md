@@ -39,4 +39,4 @@ A lot of companies are starting to build DevOps teams. The T-Shaped profiles (eg
 The first step in DevOps transformation is knowing where change is needed. So everything should be measured and tracked.
 
 ### Resources
-Learning Path [[>>]](learning-path.md)
+[[Learning Path]](learning-path.md)
