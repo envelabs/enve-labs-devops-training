@@ -23,9 +23,11 @@
 ### Build Automation
 - Packer
 
-### Microservices
-- Docker
+### Micorservices
+- Docker [[enve-labs-docker-training]]
 - Kubernetes
+
+[enve-labs-docker-training]: https://github.com/envelabs/enve-labs-docker-training
 
 ### CI/CD
 - Continuous Integration (CI)
@@ -37,9 +39,3 @@
 - Elastic Stack
 - Grafana
 - Prometheus
-
-### Micorservices
-- Docker [[enve-labs-docker-training]]
-- Kubernetes
-
-[enve-labs-docker-training]: https://github.com/envelabs/enve-labs-docker-training
