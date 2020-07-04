@@ -7,7 +7,10 @@
 [enve-labs-linux-sa-training]: https://github.com/envelabs/enve-labs-linux-sa-training
 
 ### Source Code Management
-- git / github / gitlab / bitbucket
+- git / github / gitlab / bitbucket [[enve-labs-git-training]]
+
+[enve-labs-git-training]: https://github.com/envelabs/enve-labs-git-training
+
 
 ### Infrastructure Management
 - Vagrant
