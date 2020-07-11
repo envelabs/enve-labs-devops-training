@@ -26,7 +26,7 @@
 ### Build Automation
 - Packer
 
-### Micorservices
+### Microservices
 - Docker [[enve-labs-docker-training]]
 - Kubernetes
 
