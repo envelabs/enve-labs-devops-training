@@ -13,11 +13,14 @@
 
 
 ### Infrastructure Management
-- Vagrant
+- Vagrant [[enve-labs-vagrant-training]]
 - VMWare
 - AWS
 - Azure
-- Terraform
+- Terraform [[enve-labs-terraform-training]]
+
+[enve-labs-vagrant-training]: https://github.com/envelabs/enve-labs-vagrant-training
+[enve-labs-terraform-training]: https://github.com/envelabs/enve-labs-terraform-training
 
 ### Configuration Management Tools
 - Ansible [[enve-labs-ansible-training]]
